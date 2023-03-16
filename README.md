@@ -1,5 +1,8 @@
 **Analysis-of-Ecommerce-Sales-Data-Using-Power-BI**
 
+![image](https://user-images.githubusercontent.com/98225415/225492407-e7a9a096-840f-4a30-b603-ba0c8812d696.png)
+
+
 **:bulb: Project Learnings**
 
  <details>
@@ -25,4 +28,3 @@
          
          
   
-![image](https://user-images.githubusercontent.com/98225415/225492370-9bbeb0ec-bd58-47cd-9ae9-2f8e3dda9073.png)
